@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hi, I'm Papafritas123 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C07BD&random=true&width=435&lines=+I+love+cybersecurity;Discord%3A+papafritas123;+python+programmer;I+love+you+baguette%2C+serlink%2C+bobina" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+love+cibersecurity;Python+programmer;Discord%3A+papafritas123;I+admire+you+serlink04" alt="Typing SVG" />
+</a>
 </p>
 
 <br>
@@ -12,8 +13,8 @@
 
 <br>
 
-- passionate about cybersecurity
-- Playing MC at spare time
+- Passionate about cybersecurity 
+- Playing MC at spare time 
 - currently learning to program in other languages
 
 <br><br>
@@ -58,9 +59,11 @@
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=papafrita123123&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papafrita123123&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
 
 </a>
 
